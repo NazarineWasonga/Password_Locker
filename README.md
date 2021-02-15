@@ -44,14 +44,13 @@ As a user I would like to... :
 ## BDD    
 |               Behaviour              | Input                            | Output                                               |
 |:------------------------------------:|----------------------------------|------------------------------------------------------|
-| Open the application on the terminal | Run the command ***$ ./run.py*** | Hi! Welcome to an application that help you manage your credential ... * ca --- Create account details here * LI --- Have An Account|
-|               Select ***ep***        | enter your own password     | Hello ***username***, Your account has been created succesfully! Your password is: ***password***|
-|               Select ***li***           | Enter your password and username you signed up with | Abbreviations menu to help you navigate through the application |
+| Open the application on the terminal | Run the command ***$ ./run.py*** | Hi! Welcome to an application that help you manage your credential ... * ca --- Create account details here |
+|               Select ***ep***        | enter your own password     | Welcome ***username*** to password locker.Your new account password is: ***password***|
 |Store a new credential in the application|   Enter ***cc***              |   Enter Account, username, password choose ***tp*** to enter your password or ***gp*** for the application to generate a password for you |
 | Display all stored credentials       |           Enter ***dc***         | A list of all credentials that has been stored or You don't have any credentials saved yet|
 |Find a stored credential based on account name|    Enter ***fc***        |Enter the Account Name you want to search for and returns the account details|
-|Delete an existing credential that you don't want anymore| Enter ***Dd*** |Enter the account name of the Credentials you want to delete and returns true if the account has been deleted and false if the account doesn't exist|
-|  Exit the application                |              Enter ***Ex***       | The application exits |
+|Delete an existing credential that you don't want anymore| Enter ***Dd*** |Enter the account name of the Credential you want to delete and returns true if the account has been deleted and false if the account doesn't exist|
+|  Exit the application                |              Enter ***Ex***       | Exit application |
 
 
 ## Technology Used
