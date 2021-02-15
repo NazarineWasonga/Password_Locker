@@ -28,3 +28,18 @@ To run the application, open the cloned file in terminal and run the following c
   
 To run test for the application *use $ python3.6 run_test.py
 
+## User Story
+As a user I would like to... :
+
+    1. To create an account for the application or log into the application.
+
+    2. Store my existing acounts login details for various accounts that I have registered for.
+
+    3. Generate new password for an account that I haven't registered for and store it with the account name.
+
+    4. Delete stored account login details that I do not want anymore.
+
+    5. Copy my credentials to the clipboard.
+
+    
+
