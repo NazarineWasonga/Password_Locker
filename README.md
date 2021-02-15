@@ -41,7 +41,7 @@ As a user I would like to... :
 
     5. Copy my credentials to the clipboard.
 
-    ## Technology Used
+## Technology Used
 * Python3.6
 
 ## Contact Informarion
