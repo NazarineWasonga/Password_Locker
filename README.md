@@ -41,5 +41,15 @@ As a user I would like to... :
 
     5. Copy my credentials to the clipboard.
 
-    
+    ## Technology Used
+* Python3.6
+
+## Contact Informarion
+If you have any question or contributions, please email me at [nazarinewasonga48@gmail.com]
+
+## License
+* MIT License:
+
+* Copyright (c) 2020 NazarineWasonga
+
 
